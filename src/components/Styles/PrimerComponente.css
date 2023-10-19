@@ -1,0 +1,7 @@
+.contenedor_banner{
+    width: 484px;
+    height: 321px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #292B2F;
+}
