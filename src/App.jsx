@@ -1,10 +1,15 @@
 import { useState } from 'react'
 import './App.css'
 import Pcomponente from './components/PrimerComponente'
+import Scomponente from './components/SegundoComponete'
 
 function App() {
   return (
-    <Pcomponente/>
+    <div>
+      <Pcomponente/>
+      <Scomponente/>
+    </div>
+
   )
 }
 

@@ -1,0 +1,9 @@
+.contenedor_texto{
+    width: 166px;
+    height: 30px;
+    flex-shrink: 0;
+    color: #B9BBBE;
+    top: -4px;
+    left: -214px;
+    display: flex;
+}
