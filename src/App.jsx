@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Pcomponente from './components/PrimerComponente'
 import Scomponente from './components/SegundoComponete'
-import Tcomponente from './components/TercerComponete'
+import Tcomponente from './components/TercerComponente'
 
 function App() {
   return (
